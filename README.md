@@ -43,7 +43,7 @@
 | --------------- | -------------------------------------------------- |
 | **IoT Devices** | ESP32, DHT22, MQ-135, NPK Sensor, pH Sensor V2     |
 | **Backend**     | Flask, MQTT (HiveMQ), FastAPI                      |
-| **Frontend**    | Flutter via FlutterFlow                            |
+| **Frontend**    | Flutter via FlutterFlow, NextJS Vercel for Auth    |
 | **Database**    | Supabase (PostgreSQL)                              |
 | **ML Models**   | Hoeffding Adaptive Tree Classifier (River package) |
 | **Deployment**  | Azure VM, Docker, MLflow                           |
@@ -81,7 +81,7 @@
 | Name                 | Role                                                       |
 | -------------------- | ---------------------------------------------------------- |
 | **Mahmoud Essam**    | Leader - Machine Learning Engineer - IoT Dev - Flutter Dev |
-| **Marwan Ali**       | IoT Developer - Cloud Architect                            |
+| **Marwan Ali**       | IoT Developer - Cloud Architect - Database Administrator   |
 | **Muhammed Hamdi**   | Flutter Developer                                          |
 | **Abdullah Ibrahim** | Cloud Architect                                            |
 | **Abdelrhman Ragab** | Data Scientist                                             |
@@ -93,6 +93,6 @@
 
 ## 📬 Contact
 
-📩 Connect with **Mahmoud Essam** on **[LinkedIn](https://www.linkedin.com/in/mahmoudessam7/)**.  
+📩 Connect with **Marwan Ali** on **[LinkedIn](https://www.linkedin.com/in/marwan-ali1/)**.  
 
 🚀 *Transforming agriculture, one smart farm at a time!* 🌱
