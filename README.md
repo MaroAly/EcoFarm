@@ -30,7 +30,7 @@
 
 ### **2️⃣ Software Components**
 
-🔹 **Backend**: Flask-based with FastAPI, integrating **MQTT & REST APIs**.  
+🔹 **Backend**: Flask-based with FastAPI, integrating **MQTT & REST APIs**, Azure VMs.  
 🔹 **Database**: **Supabase (PostgreSQL)** for seamless data storage & retrieval.  
 🔹 **Frontend**: Flutter-based **mobile app** for data visualization & control.  
 🔹 **Cloud Services**: **Azure VM** powering the machine learning & analytics.  
@@ -42,7 +42,7 @@
 | 🔹 Component    | 🔹 Technology Used                                 |
 | --------------- | -------------------------------------------------- |
 | **IoT Devices** | ESP32, DHT22, MQ-135, NPK Sensor, pH Sensor V2     |
-| **Backend**     | Flask, MQTT (HiveMQ), FastAPI                      |
+| **Backend**     | Flask, MQTT (HiveMQ), FastAPI, Azure                      |
 | **Frontend**    | Flutter via FlutterFlow, NextJS Vercel for Auth    |
 | **Database**    | Supabase (PostgreSQL)                              |
 | **ML Models**   | Hoeffding Adaptive Tree Classifier (River package) |
